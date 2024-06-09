@@ -1,7 +1,7 @@
 # multiAppLauncherPWSH
 a powershell script to launch and close multiple programs/apps at once
 
-#setup
+# setup
 first make sure powershell 7 is installed on your machine. I can only confirm that this script works on windows.
 Next is dealing with the execution policy. as of right now the .ps1 is unsigned and im not entirely sure how to change that.
 
